@@ -28,15 +28,10 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  flex-wrap: wrap;
 }
 .text-box {
   font-size: 45px;
   text-align: center;
-  margin: 0;
-}
-.smile {
-  font-size: 45px;
   margin: 0;
 }
 
